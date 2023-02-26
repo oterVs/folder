@@ -32,6 +32,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
     <RouterProvider router={router} basename="folder"></RouterProvider>
 
-
   </React.StrictMode>,
 )

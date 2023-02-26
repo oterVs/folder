@@ -3,8 +3,8 @@ import NavBar from '../components/NavBar'
 
 import dev from '../assets/profile/dev.svg'
 const Personal = () => {
-  const downloadUrl = "https://drive.google.com/uc?id=1Qw5aTI8XlyZ_nUC9adtMxt7KiEmcAOnj&export=download&authuser=0";
-  
+  const downloadUrl = "https://drive.google.com/uc?id=1_jgy05ihZvsZWr23U1FtWdG9R7DmyMco&export=download&authuser=0";
+  //https://drive.google.com/file/d/1_jgy05ihZvsZWr23U1FtWdG9R7DmyMco/view?usp=share_link
 
   const handleDowload = () => {
 
